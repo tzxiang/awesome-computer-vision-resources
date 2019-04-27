@@ -18,6 +18,13 @@ Github主页：https://github.com/nndl/nndl.github.io  \
 
 
 
+# Course
+
+1. **李宏毅：机器学习** \
+课程slides：http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html \
+课程视频 (Youtube): https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49
+课程视频 (Bilibili)：https://www.bilibili.com/video/av10590361?from=search&seid=3550588589314000309
+课程作业解析：https://github.com/maplezzz/NTU_ML2017_Hung-yi-Lee_HW
 
 
 
