@@ -23,9 +23,9 @@ Videos(Youtube): https://www.youtube.com/playlist?list=PLLbeS1kM6teJqdFzw1ICHfa4
 Codes in Torch: https://github.com/dsgiitr/d2l-pytorch (En) https://github.com/ShusenTang/Dive-into-DL-PyTorch (CH) \
 Others: https://github.com/sangyx/d2l-torch
 
-4. **MATHEMATICS FOR MACHINE LEARNING** \
+4. **Mathematics for Machine Learning** \
 Homepage: https://mml-book.github.io/ \
-Book downloads: https://mml-book.github.io/book/mml-book.pdf \
+Book downloads: https://mml-book.github.io/book/mml-book.pdf 
 
 5. **Machine Learning Yearning, Andrew Ng** \
 Homepage: https://deeplearning-ai.github.io/machine-learning-yearning-cn/ \
