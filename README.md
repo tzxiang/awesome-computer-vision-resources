@@ -30,7 +30,7 @@ Book downloads: https://mml-book.github.io/book/mml-book.pdf \
 5. **Machine Learning Yearning, Andrew Ng** \
 Homepage: https://deeplearning-ai.github.io/machine-learning-yearning-cn/ \
 Github Page (Chinese): https://github.com/deeplearning-ai/machine-learning-yearning-cn \
-Read online (Chinese): https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/
+Read online (Chinese): https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/    
 Download (Chinese): https://github.com/deeplearning-ai/machine-learning-yearning-cn/releases/download/v0.5.0/MLY-zh-cn.pdf
 
 
