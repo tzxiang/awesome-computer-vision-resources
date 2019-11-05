@@ -15,21 +15,21 @@ The book was compiled by Xi-Peng Qiu, based on his lectures in CS, Fudan Univers
 Github Page: https://github.com/nndl/nndl.github.io  \
 Resources：https://nndl.github.io/ 
 
-3. **Dive into Deep Learning** \
-Author: Mu LI, et al. \
-Book in Chinese: http://zh.d2l.ai/ \
-Videos(Bilibili): https://space.bilibili.com/209599371/channel/detail?cid=23541 \
-Videos(Youtube): https://www.youtube.com/playlist?list=PLLbeS1kM6teJqdFzw1ICHfa4a1y0hg8Ax \
-Codes in Torch: https://github.com/dsgiitr/d2l-pytorch (En) https://github.com/ShusenTang/Dive-into-DL-PyTorch (CH) \
+3. **Dive into Deep Learning**   
+Author: Mu LI, et al.    
+Book in Chinese: http://zh.d2l.ai/    
+Videos(Bilibili): https://space.bilibili.com/209599371/channel/detail?cid=23541    
+Videos(Youtube): https://www.youtube.com/playlist?list=PLLbeS1kM6teJqdFzw1ICHfa4a1y0hg8Ax     
+Codes in Torch: https://github.com/dsgiitr/d2l-pytorch (En) https://github.com/ShusenTang/Dive-into-DL-PyTorch (CH)    
 Others: https://github.com/sangyx/d2l-torch
 
-4. **Mathematics for Machine Learning** \
-Homepage: https://mml-book.github.io/ \
-Book downloads: https://mml-book.github.io/book/mml-book.pdf 
+4. **Mathematics for Machine Learning** [[PDF]](https://github.com/tzxiang/AwesomeCV/tree/master/Docs/mml-book.pdf)    
+Homepage: https://mml-book.github.io/    
+Download: https://mml-book.github.io/book/mml-book.pdf 
 
-5. **Machine Learning Yearning, Andrew Ng** \
-Homepage: https://deeplearning-ai.github.io/machine-learning-yearning-cn/ \
-Github Page (Chinese): https://github.com/deeplearning-ai/machine-learning-yearning-cn \
+5. **Machine Learning Yearning, Andrew Ng** [[PDF]](https://github.com/tzxiang/AwesomeCV/tree/master/Docs/MLYearning-zh-cn.pdf)   
+Homepage: https://deeplearning-ai.github.io/machine-learning-yearning-cn/    
+Github Page (Chinese): https://github.com/deeplearning-ai/machine-learning-yearning-cn     
 Read online (Chinese): https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/    
 Download (Chinese): https://github.com/deeplearning-ai/machine-learning-yearning-cn/releases/download/v0.5.0/MLY-zh-cn.pdf
 
@@ -45,10 +45,10 @@ Course homework Analysis：https://github.com/maplezzz/NTU_ML2017_Hung-yi-Lee_HW
 
 
 # Tutorials
-1. **Opencv-Python Chinese Tutorial (OpenCV3.0, 2014)** [PDF](https://github.com/tzxiang/AwesomeCV/tree/master/Docs/OpenCV-Python中文教程-2014.pdf)  
+1. **Opencv-Python Chinese Tutorial (OpenCV3.0, 2014)** [[PDF]](https://github.com/tzxiang/AwesomeCV/tree/master/Docs/OpenCV-Python中文教程-2014.pdf)  
 Original officer tuotrial for OpenCV (for Python), translated by Lihui Duan.  
 Onlinedoc: https://www.kancloud.cn/aollo/aolloopencv/269602  
-Downloads: https://www.path8.net/docs/OpenCV-Python_cn/OpenCV-Python-Tutorial-zh-ch.pdf
+Download:  https://www.path8.net/docs/OpenCV-Python_cn/OpenCV-Python-Tutorial-zh-ch.pdf
 
 2. **CV and DL Tutorial based on Opencv+Python**  
 A online tutorial for CV and DL based on OpenCV-Python
