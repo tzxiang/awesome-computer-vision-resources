@@ -20,7 +20,7 @@ Author: Mu LI, et al.
 Book in Chinese: http://zh.d2l.ai/    
 Videos(Bilibili): https://space.bilibili.com/209599371/channel/detail?cid=23541    
 Videos(Youtube): https://www.youtube.com/playlist?list=PLLbeS1kM6teJqdFzw1ICHfa4a1y0hg8Ax     
-Codes in Torch: https://github.com/dsgiitr/d2l-pytorch (En) 
+Codes in Torch: https://github.com/dsgiitr/d2l-pytorch (En)     
                 https://github.com/ShusenTang/Dive-into-DL-PyTorch (CH)    
 Others: https://github.com/sangyx/d2l-torch
 
