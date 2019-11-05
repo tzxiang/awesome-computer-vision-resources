@@ -6,13 +6,13 @@ A curated list of awesome CV/ML resources for easy study and reference
 # Learning resources
 
 ### Machine Learning
-1. **Watermelon Book：Zhi-Hua Zhou, Machine Learning (in Chinese)**  \
-PumpkinBook Program (Formula derivation analysis): https://github.com/datawhalechina/pumpkin-book \
+1. **Watermelon Book：Zhi-Hua Zhou, Machine Learning (in Chinese)**      
+PumpkinBook Program (Formula derivation analysis): https://github.com/datawhalechina/pumpkin-book     
 PumpkinBook read online: https://datawhalechina.github.io/pumpkin-book/  
 
-2. **Book：Neural Network and Deep Learning (in Chinese)** \
+2. **Book：Neural Network and Deep Learning (in Chinese)**     
 The book was compiled by Xi-Peng Qiu, based on his lectures in CS, Fudan University. It includes books, slides, exercises and sample source code.  \
-Github Page: https://github.com/nndl/nndl.github.io  \
+Github Page: https://github.com/nndl/nndl.github.io     
 Resources：https://nndl.github.io/ 
 
 3. **Dive into Deep Learning**   
@@ -37,10 +37,10 @@ Download (Chinese): https://github.com/deeplearning-ai/machine-learning-yearning
 
 # Course
 
-1. **Hung-yi Lee: Machine Learning** \
-Course Slides：http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html \
-Course Video (Youtube): https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49 \
-Course Video (Bilibili)：https://www.bilibili.com/video/av10590361?from=search&seid=3550588589314000309 \
+1. **Hung-yi Lee: Machine Learning**     
+Course Slides：http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html    
+Course Video (Youtube): https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49    
+Course Video (Bilibili)：https://www.bilibili.com/video/av10590361?from=search&seid=3550588589314000309    
 Course homework Analysis：https://github.com/maplezzz/NTU_ML2017_Hung-yi-Lee_HW
 
 
@@ -51,5 +51,5 @@ Onlinedoc: https://www.kancloud.cn/aollo/aolloopencv/269602
 Download:  https://www.path8.net/docs/OpenCV-Python_cn/OpenCV-Python-Tutorial-zh-ch.pdf
 
 2. **CV and DL Tutorial based on Opencv+Python**  
-A online tutorial for CV and DL based on OpenCV-Python
+A online tutorial for CV and DL based on OpenCV-Python    
 Homepage: https://www.pyimagesearch.com/start-here/
