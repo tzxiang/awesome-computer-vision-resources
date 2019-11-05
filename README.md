@@ -45,9 +45,11 @@ Course homework Analysis：https://github.com/maplezzz/NTU_ML2017_Hung-yi-Lee_HW
 
 
 # Tutorials
-1. **Opencv-Python Chinese Tutorial (OpenCV3.0, 2014)**  
-Online doc: https://www.kancloud.cn/aollo/aolloopencv/269602  
-PDF: https://www.path8.net/docs/OpenCV-Python_cn/OpenCV-Python-Tutorial-zh-ch.pdf
+1. **Opencv-Python Chinese Tutorial (OpenCV3.0, 2014)** [PDF](Docs/OpenCV-Python 中文教程-2014.pdf))  
+Original officer tuotrial for OpenCV (for Python), translated by Lihui Duan.  
+Onlinedoc: https://www.kancloud.cn/aollo/aolloopencv/269602  
+Downloads: https://www.path8.net/docs/OpenCV-Python_cn/OpenCV-Python-Tutorial-zh-ch.pdf
 
 2. **CV and DL Tutorial based on Opencv+Python**  
+A online tutorial for CV and DL based on OpenCV-Python
 Homepage: https://www.pyimagesearch.com/start-here/
