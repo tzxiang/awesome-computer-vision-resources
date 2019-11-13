@@ -1,4 +1,4 @@
-# AwesomeCV
+# awesome-computer-vision-resources
 A curated list of awesome CV/ML resources for easy study and reference
 
 
