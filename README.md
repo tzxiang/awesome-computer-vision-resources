@@ -10,20 +10,20 @@ A curated list of awesome CV/ML resources for easy study and reference
 A guidebook to machine learning, written by Zhi-Hua Zhou [[PDF]](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%BF%97%E5%8D%8E.pdf)   
     - Pumpkin book: A program for formula derivation analysis of watermelon book [[github]](https://github.com/datawhalechina/pumpkin-book ) [[ReadOnline]]( https://datawhalechina.github.io/pumpkin-book/)
     - Notes of ML in Chinese [[github]](https://github.com/Vay-keen/Machine-learning-learning-notes)
-2. **Flower Book: Deep Learning**
+2. **Flower Book: Deep Learning**  
 A classic deep learning book by Yoshua Bengio and Ian GoodFellow, published in 2017 [[PDF]](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.Yoshua%20Bengio%2BIan%20GoodFellow.pdf)  
 3. **Pattern Recognition and Machine Learning (PRML)**  
 A classic guide book. [[PDF-Chinese]](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0PRML_Chinese_vision.pdf)
-4. **李航：统计学习方法**
+4. **李航：统计学习方法**  
 A classic book for machine learning [[PDF]](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%9D%8E%E8%88%AA-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf) [[Codes]](https://github.com/Mikoto10032/DeepLearning/tree/master/books/%E6%9D%8E%E8%88%AA-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/machine_learning_algorithm-master)
 5. **Neural Network and Deep Learning (in Chinese)**     
 The book was compiled by Xi-Peng Qiu, based on his lectures in CS, Fudan University. It includes books, slides, exercises and sample source code. [[github]](https://github.com/nndl/nndl.github.io)  [[Homepage]](https://nndl.github.io/ )
 6. **Dive into Deep Learning**   
-Written by Mu LI, et al. [[ReadOnline-Chinese]](http://zh.d2l.ai/) [[Video-Bili]](https://space.bilibili.com/209599371/channel/detail?cid=23541) [[Video-Youtube]](https://www.youtube.com/playlist?list=PLLbeS1kM6teJqdFzw1ICHfa4a1y0hg8Ax) 
-Codes-MXNet [[github]](https://github.com/d2l-ai/d2l-zh) 
-Codes-PyTorch-Eng [[github]](https://github.com/dsgiitr/d2l-pytorch)
-Codes-PyTorch-Chinese [[github]](https://github.com/ShusenTang/Dive-into-DL-PyTorch) [[PDF]](https://github.com/tzxiang/AwesomeCV/tree/master/Docs/Dive-into-DL-PyTorch.pdf)
-PDF is from OUCMachineLearning/OUCML.  [[Others]](https://github.com/sangyx/d2l-torch)
+Written by Mu LI, et al. [[ReadOnline-Chinese]](http://zh.d2l.ai/) [[Video-Bili]](https://space.bilibili.com/209599371/channel/detail?cid=23541) [[Video-Youtube]](https://www.youtube.com/playlist?list=PLLbeS1kM6teJqdFzw1ICHfa4a1y0hg8Ax)   
+Codes-MXNet [[github]](https://github.com/d2l-ai/d2l-zh)   
+Codes-PyTorch-Eng [[github]](https://github.com/dsgiitr/d2l-pytorch)  
+Codes-PyTorch-Chinese [[github]](https://github.com/ShusenTang/Dive-into-DL-PyTorch) [[PDF]](https://github.com/tzxiang/AwesomeCV/tree/master/Docs/Dive-into-DL-PyTorch.pdf)  
+PDF is from OUCMachineLearning/OUCML.  [[Others]](https://github.com/sangyx/d2l-torch)    
 7. **Machine Learning Yearning**   
 Written by  Andrew Ng. [[Homepage]]( https://deeplearning-ai.github.io/machine-learning-yearning-cn/) [[github-Chinese]](https://github.com/deeplearning-ai/machine-learning-yearning-cn) [[ReadOnline]](https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/) [[PDF]](https://github.com/tzxiang/AwesomeCV/tree/master/Docs/MLYearning-zh-cn.pdf) 
 8. **Mathematics for Machine Learning**  
@@ -40,7 +40,7 @@ A definetive guide for GANs, written by Jakub Langr and Vladinir Bok. [[ReadOnli
 The book is published in 2019 for second version by Xiang Gao. [[Codes]](https://github.com/gaoxiang12/slambook)
 
 2. **An Invitation to 3-D Vision From Images to Models**  
-The book is written by Yi Ma, 2001. [[PDF]](https://github.com/tzxiang/AwesomeCV/tree/master/Docs/An-Invitation-to-3D-Vision-From-Images-to-Models.pdf.pdf)
+The book is written by Yi Ma, 2001. [[PDF]](https://github.com/tzxiang/AwesomeCV/tree/master/Docs/An-Invitation-to-3D-Vision-From-Images-to-Models.pdf)
 
 
 
@@ -116,7 +116,7 @@ Besides, it also supports YOLO format.
 
 # Projects
 
-- [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+- [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning)  
 Collect  a huge number of deep learning related books, blogs, tutorials, courses, resources, etc.
 
 
@@ -194,7 +194,7 @@ Visual Tracking Paper List [[github]](https://github.com/foolwood/benchmark_resu
 It includes (1) VOT short-term challenge, (2) VOT short-term realtime and (3) VOT long-term challenge, (4) VOT-RGBT challenge (RGB + Thermal/infra-red), (5) VOT-RGBD challenge (RGB + Depth). 
 Paper: A Novel Performance Evaluation Methodology for Single-Target Trackers, PAMI2016  
 The Seventh Visual Object Tracking VOT2019 Challenge Results, ICCVW2019  
-[[Dataset]**](http://www.votchallenge.net/)**
+[[Dataset]](http://www.votchallenge.net/)
 
 - **LaSOT**  
 Large-scale Single Object Tracking (LaSOT) aims to provide a dedicated platform for training data-hungry deep trackers as well as assessing long-term tracking performance.
