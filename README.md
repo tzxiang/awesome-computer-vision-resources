@@ -21,14 +21,14 @@ A curated list of awesome resources on computer vision and deep learning for eas
 ## Books
 
 ### Machine Learning
-1. **Watermelon Book: Machine Learning (Chinese)**   
+1. **Watermelon Book: Machine Learning (Chinese)**
 
   A guidebook to machine learning, written by Zhi-Hua Zhou [[PDF]](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%BF%97%E5%8D%8E.pdf)  
-  
-  > - Pumpkin book: A program for formula derivation analysis of watermelon book [[github]](https://github.com/datawhalechina/pumpkin-book ) [[ReadOnline]]( https://datawhalechina.github.io/pumpkin-book/)
+
+  > Pumpkin book: A program for formula derivation analysis of watermelon book [[github]](https://github.com/datawhalechina/pumpkin-book ) [[ReadOnline]]( https://datawhalechina.github.io/pumpkin-book/)
   >
-  > - Notes of ML in Chinese [[github]](https://github.com/Vay-keen/Machine-learning-learning-notes)
-  
+  > Notes of ML in Chinese [[github]](https://github.com/Vay-keen/Machine-learning-learning-notes)
+
 2. **Flower Book: Deep Learning**  
   A classic deep learning book by Yoshua Bengio and Ian GoodFellow, published in 2017 [[PDF]](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.Yoshua%20Bengio%2BIan%20GoodFellow.pdf)  
 
@@ -40,16 +40,20 @@ A curated list of awesome resources on computer vision and deep learning for eas
 
 5. **Neural Network and Deep Learning (in Chinese)**     
   The book was compiled by Xi-Peng Qiu, based on his lectures in CS, Fudan University. It includes books, slides, exercises and sample source code. [[github]](https://github.com/nndl/nndl.github.io)  [[Homepage]](https://nndl.github.io/ )
-  
+
 6. **Dive into Deep Learning**   
   Written by Mu LI, et al. [[ReadOnline-Chinese]](http://zh.d2l.ai/) [[Video-Bili]](https://space.bilibili.com/209599371/channel/detail?cid=23541) [[Video-Youtube]](https://www.youtube.com/playlist?list=PLLbeS1kM6teJqdFzw1ICHfa4a1y0hg8Ax)   
+
   Codes-MXNet [[github]](https://github.com/d2l-ai/d2l-zh)   
+
   Codes-PyTorch-Eng [[github]](https://github.com/dsgiitr/d2l-pytorch)  
+
   Codes-PyTorch-Chinese [[github]](https://github.com/ShusenTang/Dive-into-DL-PyTorch) [[Online]](http://tangshusen.me/Dive-into-DL-PyTorch/#/) [[PDF]](https://github.com/tzxiang/AwesomeCV/tree/master/Docs/Dive-into-DL-PyTorch.pdf) 
-  
+
   Codes-TensorFlow2.0 [[Online]](https://trickygo.github.io/Dive-into-DL-TensorFlow2.0/#/) [[github]](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0) 
+
   PDF is from OUCMachineLearning/OUCML.  [[Others]](https://github.com/sangyx/d2l-torch)    
-  
+
 7. **Machine Learning Yearning**   
   Written by  Andrew Ng. [[Homepage]]( https://deeplearning-ai.github.io/machine-learning-yearning-cn/) [[github-Chinese]](https://github.com/deeplearning-ai/machine-learning-yearning-cn) [[ReadOnline]](https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/) [[PDF]](https://github.com/tzxiang/AwesomeCV/tree/master/Docs/MLYearning-zh-cn.pdf) 
 
@@ -77,7 +81,7 @@ A curated list of awesome resources on computer vision and deep learning for eas
 15. AI算法工程师手册, 阿里华校专 [[Online]](http://www.huaxiaozhuan.com/)
 
     包含数学基础、统计学习、深度学习、常用工具，是作者多年以来学习总结的笔记整理而来。
-    
+
 16. The Elements of Statistical Learning, 2008 [[PDF]]([https://esl.hohoweiya.xyz/book/The%20Elements%20of%20Statistical%20Learning.pdf](https://esl.hohoweiya.xyz/book/The Elements of Statistical Learning.pdf)) [[CN-Online]](https://esl.hohoweiya.xyz/) [[Code]](https://github.com/szcf-weiya/ESL-CN)
 
 
@@ -167,16 +171,27 @@ A course of Stanford university by Fei-Fei Li.
 1. **ICCV2019 Tutorial** [[Homepage]](http://iccv2019.thecvf.com/program/tutorials)
   
     [Everything You Need to Know to Reproduce SOTA Deep Learning Models](https://iccv19.mxnet.io/), Hang Zhang (Amazon)
-[From Image Restoration to Enhancement and Beyond](http://www.vision.ee.ethz.ch/fire19/), Radu Timofte (ETHZ)
+
+    [From Image Restoration to Enhancement and Beyond](http://www.vision.ee.ethz.ch/fire19/), Radu Timofte (ETHZ)
+    
     [Global Optimization for Geometric Understanding with Provable Guarantees](https://mit-spark.github.io/GlobalOptimization-ICCV2019/), Luca Carlone (MIT)
+    
     [Interpretable Machine Learning for Computer Vision](https://interpretablevision.github.io/), Bolei Zho (CUHK)
+    
     [Understanding Color and the In-Camera Image Processing Pipeline for Computer Vision](https://www.eecs.yorku.ca/~mbrown/ICCV2019_Brown.html), Michael Brow (York University)
+    
     [Holistic 3D Reconstruction: Learning to Reconstruct Holistic 3D Structures from Sensorial Data](https://holistic-3d.github.io/iccv19), Zihan Zhou (Penn State University)
+    
     [Visual Recognition for Images, Video, and 3D](https://alexander-kirillov.github.io/tutorials/visual-recognition-iccv19/), Alexander Kirillov (FAIR)
+    
     [Large-Scale Visual Place Recognition and Image-Based Localization](https://sites.google.com/view/lsvpr2019/home), Torsten Sattler (Chalmers University of Technology)
+    
     [Accelerating Computer Vision with Mixed Precision, ](https://nvlabs.github.io/iccv2019-mixed-precision-tutorial/)Ming-Yu Liu (NVIDIA)
+    
     [3D Deep Learning and Applications in Autonomous Driving](https://sites.google.com/site/3ddeeplearningauto/), Li Erran Li (Scale AI/Columbia U)
+    
     [Second- and Higher-order Representations in Computer Vision](http://users.cecs.anu.edu.au/~koniusz/secordcv-iccv19/), Piotr Koniusz (ANU)
+    
     [Visual Learning with Limited Labeled Data](https://sites.google.com/view/learning-with-limited-data), Rogerio S. Feris (IBM)
     
 2. **Deep Learning for Objects and Scenes, CVPR2017 Tutorial**
@@ -394,7 +409,7 @@ A course of Stanford university by Fei-Fei Li.
 - Variant CNN models and codes [[Page]](https://zhuanlan.zhihu.com/p/66215918) [[github]](https://github.com/liuyuemaicha/cnn_model)
 - Gradient Deviation and Code [[Page]](https://mp.weixin.qq.com/s/PJnG4SU9BpTvfH4EwZ_WiQ)
 - Run FCN Network Efficiently for large Images [[Page]](https://zhuanlan.zhihu.com/p/90449366)
-- --
+- 
 - Image Augmentation for Deep Learning using PyTorch – Feature Engineering for Images [[github]](https://www.analyticsvidhya.com/blog/2019/12/image-augmentation-deep-learning-pytorch/)
 
 - Computer Vision Tutorial: Implementing Mask R-CNN for Image Segmentation (with Python Code) [[github]](https://www.analyticsvidhya.com/blog/2019/07/computer-vision-implementing-mask-r-cnn-image-segmentation/)
@@ -649,7 +664,7 @@ A course of Stanford university by Fei-Fei Li.
 
   Image augmentation library in Python for machine learning.
 
-- --
+- //
 
 - **TFMA: TensorFlow Model Analysis** [[github]](https://github.com/tensorflow/model-analysis)
 
@@ -657,7 +672,7 @@ A course of Stanford university by Fei-Fei Li.
 
 - **Flashtorch**: 神经网络可视化 [[github]](https://github.com/MisaOgura/flashtorch) [[Note]](https://mp.weixin.qq.com/s/JH05arsGJmT1sDZxYqjJFA)
 
-- --
+- //
 
 - **PyTorch Elastic: Pytorch-based framework for distributed training** [[github]](https://github.com/pytorch/elastic)
 
@@ -667,7 +682,7 @@ A course of Stanford university by Fei-Fei Li.
 
   GPipe is written in TensorFlow and will be open sourced by Google.
 
-- --
+- //
 
 - **Dopamine**: 基于 TensorFlow 的强化学习框架, 小型易访问代码库 [[github]](https://github.com/google/dopamine)
 
@@ -675,7 +690,7 @@ A course of Stanford university by Fei-Fei Li.
 
   It is a novel TensorFlow-based deep learning and reinforcement learning library designed for researchers and engineers. It provides an extensive collection of customizable neural layers to build complex AI models. TensorLayer is awarded the 2017 Best Open Source Software by the ACM Multimedia Society. Reference paper: TensorLayer: A Versatile Library for Efficient Deep Learning Development, ACMMM2017
 
-- --
+- //
 
 - **TransmogrifAI**: 由Salesforce提供的Scala编写的端到端的 AutoML 库, 可Spark 运行 [[github]](https://github.com/salesforce/TransmogrifAI)
 
@@ -685,7 +700,7 @@ A course of Stanford university by Fei-Fei Li.
 
 - **AutoGluon**：AutoML Toolkit for Deep Learning, developed by MXNet/Gluon. [[Page]](https://autogluon.mxnet.io/) [[github]](https://github.com/awslabs/autogluon)
 
-- --
+- //
 
 - **GraphPipe** [[github]](https://github.com/oracle/graphpipe)
 
@@ -695,18 +710,17 @@ A course of Stanford university by Fei-Fei Li.
 
   All-in-one AI development container for rapid prototyping, compatible with the nvidia-docker GPU-accelerated container runtime as well as JupyterHub. This is designed as a lighter and more portable alternative to various cloud provider "Deep Learning Virtual Machines". Get up and running with a wide range of machine learning and deep learning tasks by pulling and running the container on your workstation, on the cloud or within JupyterHub.
 
-- --
+- //
 
 - **Tiny-dnn** [[github]](https://github.com/tiny-dnn/tiny-dnn) 
   
-
-header only, dependency-free deep learning framework in C++14. It is suitable for deep learning on limited computational resource, embedded systems and IoT devices.
+  header only, dependency-free deep learning framework in C++14. It is suitable for deep learning on limited computational resource, embedded systems and IoT devices.
 
 - **QNNPACK** [[github]](https://github.com/pytorch/QNNPACK)
 
   QNNPACK (Quantized Neural Networks PACKage) is a mobile-optimized library for low-precision high-performance neural network inference. QNNPACK provides implementation of common neural network operators on quantized 8-bit tensors. QNNPACK is not intended to be directly used by machine learning researchers; instead it provides low-level performance primitives (e.g. convolution, pooling, sigmoid, ReLU, etc.) for high-level deep learning frameworks. 
 
-- --
+- //
 
 - **Pytorch Project Template** [[github]](https://github.com/moemen95/PyTorch-Project-Template) 
 
@@ -716,7 +730,7 @@ header only, dependency-free deep learning framework in C++14. It is suitable fo
 
   A best practice for pytorch project template architecture, help you get into your main project faster and just focus on your core model. The corresponding Tensorflow Template: [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template).
 
-- --
+- //
 
 - **tfpyth** [[github]](https://github.com/BlackHC/tfpyth)
 
