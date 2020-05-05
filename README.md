@@ -23,12 +23,10 @@ A curated list of awesome resources on computer vision and deep learning for eas
 ### Machine Learning
 1. **Watermelon Book: Machine Learning (Chinese)**
 
-  A guidebook to machine learning, written by Zhi-Hua Zhou [[PDF]](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%BF%97%E5%8D%8E.pdf)  
+  A guidebook to machine learning, written by Zhi-Hua Zhou [[PDF]](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%BF%97%E5%8D%8E.pdf) [[Notes]](https://github.com/Vay-keen/Machine-learning-learning-notes) [[HandNotes]](https://github.com/Sophia-11/Machine-Learning-Notes)
 
-  > Pumpkin book: A program for formula derivation analysis of watermelon book [[github]](https://github.com/datawhalechina/pumpkin-book ) [[ReadOnline]]( https://datawhalechina.github.io/pumpkin-book/)
-  >
-  > Notes of ML in Chinese [[github]](https://github.com/Vay-keen/Machine-learning-learning-notes)
-
+  Pumpkin book: A program for formula derivation analysis of watermelon book [[github]](https://github.com/datawhalechina/pumpkin-book ) [[ReadOnline]]( https://datawhalechina.github.io/pumpkin-book/)
+  
 2. **Flower Book: Deep Learning**  
   A classic deep learning book by Yoshua Bengio and Ian GoodFellow, published in 2017 [[PDF]](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.Yoshua%20Bengio%2BIan%20GoodFellow.pdf)  
 
