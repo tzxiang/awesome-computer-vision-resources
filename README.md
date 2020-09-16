@@ -72,15 +72,17 @@ A curated list of awesome resources on computer vision and deep learning for eas
 
     This book explains limitations of current methods in interpretable machine learning. The methods include partial dependence plots (PDP), Accumulated Local Effects (ALE), permutation feature importance, leave-one-covariate out (LOCO) and local interpretable model-agnostic explanations (LIME). All of those methods can be used to explain the behavior and predictions of trained machine learning models. 
 
-14. Grokking Deep Learning, Andrew W. Trask, 2019 [[Homepage]](https://www.manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258) [[BookCode]](https://github.com/iamtrask/Grokking-Deep-Learning)
+14. Interpretable Machine Learning, Christoph Molnar. [[Online]](https://github.com/christophM/interpretable-ml-book) [[VChinese]](https://github.com/MingchaoZhu/InterpretableMLBook)
+
+15. Grokking Deep Learning, Andrew W. Trask, 2019 [[Homepage]](https://www.manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258) [[BookCode]](https://github.com/iamtrask/Grokking-Deep-Learning)
 
     Grokking Deep Learning teaches you to build deep learning neural networks from scratch
 
-15. AI算法工程师手册, 阿里华校专 [[Online]](http://www.huaxiaozhuan.com/)
+16. AI算法工程师手册, 阿里华校专 [[Online]](http://www.huaxiaozhuan.com/)
 
     包含数学基础、统计学习、深度学习、常用工具，是作者多年以来学习总结的笔记整理而来。
 
-16. The Elements of Statistical Learning, 2008 [[PDF]]([https://esl.hohoweiya.xyz/book/The%20Elements%20of%20Statistical%20Learning.pdf](https://esl.hohoweiya.xyz/book/The Elements of Statistical Learning.pdf)) [[CN-Online]](https://esl.hohoweiya.xyz/) [[Code]](https://github.com/szcf-weiya/ESL-CN)
+17. The Elements of Statistical Learning, 2008 [[PDF]]([https://esl.hohoweiya.xyz/book/The%20Elements%20of%20Statistical%20Learning.pdf](https://esl.hohoweiya.xyz/book/The Elements of Statistical Learning.pdf)) [[CN-Online]](https://esl.hohoweiya.xyz/) [[Code]](https://github.com/szcf-weiya/ESL-CN)
 
 
 
@@ -300,6 +302,8 @@ A course of Stanford university by Fei-Fei Li.
   A Overview of Neural network architecture: from fundamentals to derivations
   
 - Stacked Capsule Autoencoders, Geoffrey Hinton, 2019AAAI report. [[Page]](https://mp.weixin.qq.com/s/chjJId7JP9ubT-7NQqwUdg)
+
+- An introduction of GCN (in Chinese) [[Page]](https://mp.weixin.qq.com/s/7KD8i8YqhhRfW-_y3AphnQ)
 
 **Blog**
 
@@ -553,6 +557,14 @@ A course of Stanford university by Fei-Fei Li.
 
 - [MRLabeler](https://github.com/imistyrain/MRLabeler): A wonderful annotation tool of objection detection, used for VOCO/YOLO-etc dataset, depending on OpenCV.
 
+- **LabelImg2** [[github]](https://github.com/chinakook/labelImg2)
+
+  It is a graphical image annotation tool, written in Python and uses Qt for its graphical interface. Annotations are saved as XML files in PASCAL VOC format, the format used by ImageNet. It supports rotated box.
+
+- **roLabelImg** [[github]](https://github.com/cgvict/roLabelImg)
+
+  It is a graphical image annotation tool can label ROTATED rectangle regions, which is rewrite from 'labelImg'.
+
 
 
 ###  Libraries
@@ -600,10 +612,6 @@ A course of Stanford university by Fei-Fei Li.
 
   An open source C++ collection of libraries and tools for making measurements from aerial video. It focuses on estimating the camera flight trajectory and a sparse 3D point cloud of the scene. Unlike Bundler, VisualSFM and OpenMVG, MAP-Tk exploits temporal order and continuity in video from GPS or GCPs.
 
-- **Geometry++**  [[Homepage]](http://geometryhub.net/geometryplusplus) [[Docs]](http://geometryhub.net/geometryplusplus/document)
-
-  Geometry++是一个关于三维数据(点云，网格)处理的几何库. 它包含了三维数据处理最基础的算法, 可以作为三维数据处理软件的几何引擎来使用.
-
 - **VIGRA**: Vision with Generic Algorithms [[Homepage]](https://ukoethe.github.io/vigra/) [[github]](https://github.com/ukoethe/vigra)
 
   Generic Programming  for Computer Vision. It's an image processing and analysis library that puts its main emphasis on *customizable* algorithms and data structures. VIGRA is especially strong for multi-dimensional images, because many algorithms (e.g. filters, feature computation, superpixels) are implemented for arbitrary high dimensions. 	
@@ -612,7 +620,7 @@ A course of Stanford university by Fei-Fei Li.
 
   The GSL is a numerical library for C and C++ programmers. The library provides a wide range of mathematical routines such as random number generators, special functions and least-squares fitting. There are over 1000 functions in total with an extensive test suite.
 
-  
+- **AutoFlip**: an automatic video cropping pipeline built on top of MediaPipe by Google AI [[Page]](https://google.github.io/mediapipe/solutions/autoflip) [[Blog]](https://ai.googleblog.com/2020/02/autoflip-open-source-framework-for.html) [[Intro]](https://mp.weixin.qq.com/s/3nl_IIEbk_8y1wjwD4x4cQ)
 
 #### NN Framwork
 
@@ -737,6 +745,14 @@ A course of Stanford university by Fei-Fei Li.
 - **Neural Tangents**: Fast and Easy Infinite Neural Networks in Python [[github]](https://github.com/google/neural-tangents)
 
   Neural Tangents is a high-level neural network API for specifying complex, hierarchical, neural networks of both finite and infinite width. Neural Tangents allows researchers to define, train, and evaluate infinite networks as easily as finite ones. Infinite (in width or channel count) neural networks are Gaussian Processes (GPs) with a kernel function determined by their architecture.
+  
+- **Talos**: Hyperparameter Optimization for Keras [[github]](https://github.com/autonomio/talos)
+
+  Talos radically changes the ordinary Keras workflow by fully automating hyperparameter tuning and model evaluation. Talos exposes Keras functionality entirely and there is no new syntax or templates to learn.
+
+- **FAIRScale** [[github]](https://github.com/facebookresearch/fairscale)
+
+  a PyTorch extension library for high performance and large scale training released by Facebook. It suppots pipeline parallal, optimization of state sharding, etc. Refer to [Intro](https://zhuanlan.zhihu.com/p/161246287)
 
 
 
@@ -783,6 +799,10 @@ A course of Stanford university by Fei-Fei Li.
 - **Tensorcom**：将训练数据快速地加载到深度学习框架 [[github]](https://github.com/NVlabs/tensorcom)
 
   注：NVIDIA Tensorcom is a way of loading training data into deep learning frameworks quickly and portably. You can write a single data loading/augmentation pipeline and train one or more jobs in the same or different frameworks with it. Keras and PyTorch can use it.
+  
+- KAIR: Image Restoration Toolbox based on PyTorch. [[github]](https://github.com/cszn/KAIR)
+
+  Training and testing codes for USRNet, DnCNN, FFDNet, SRMD, DPSR, MSRResNet, ESRGAN, IMDN.
 
 
 
@@ -832,8 +852,11 @@ A course of Stanford university by Fei-Fei Li.
 - HyperLandmark [[github]](https://github.com/zeusees/HyperLandmark)
 
   基于深度学习的人脸标定算法 (106 个人脸关键点)。这是一个强大的人脸标定的开源项目，包括面部美容，美容化妆，Crycocelle vivo 检测和人脸标定等预处理步骤。这个项目是基于传统的 SDM 算法，可在 Windows 平台上运行，并通过修改开源代码来简化部分测试代码及优化代码结构。
-  
-  
+
+- Pytorch Face Landmark Detection [[github]](https://github.com/cunjian/pytorch_face_landmark)
+  Implementation of face landmark detection with PyTorch. The models were trained using coordinate-based or heatmap-based regression methods. Different face detetors were supported. Support 68-point/39-point landmark inference, different backbone networks and face detectors, ONNX inference, heatmap-based inference.
+
+
 
 **Detection** 
 
@@ -856,32 +879,42 @@ A course of Stanford university by Fei-Fei Li.
 - **Lightweight-Segmentation Libs** [[github]](https://github.com/Tramac/Lightweight-Segmentation)
 
   Lightweight models for real-time semantic segmentation(include mobilenetv1-v3, shufflenetv1-v2, igcv3, efficientnet).
+  
+- PixelLib: a simple segmentation library [[github]](https://github.com/ayoolaolafenwa/PixelLib)
+
+  Pixellib is a library for performing segmentation of objects in images and videos. It supports semantic segmentation and instance segmentation. [Intro](https://mp.weixin.qq.com/s/i8PcN1fnVQku4wL3rhyr4g)
+
 
 
 
 **3D Vision**
 
-- **3D Point Cloud Registration**
+- **3D/Point Cloud Processing**
   
-  - [PCL: Point Cloud Library](http://pointclouds.org/)
-  - [Open3D](http://www.open3d.org/)
-  - [SLAM6D](http://slam6d.sourceforge.net/)
-  - [Libicp](http://www.cvlibs.net/software/libicp/)
-  - [libpointmatcher](https://github.com/ethz-asl/libpointmatcher)
-  - [g-icp](https://github.com/avsegal/gicp)
-  - [n-icp](http://jacoposerafin.com/nicp/)
+  - **Geometry++**  [[Homepage]](http://geometryhub.net/geometryplusplus) [[Docs]](http://geometryhub.net/geometryplusplus/document)
   
+    Geometry++是一个关于三维数据(点云，网格)处理的几何库. 它包含了三维数据处理最基础的算法, 可以作为三维数据处理软件的几何引擎来使用.
+  
+  - **Cilantro**: C++ based point cloud processing library. A Chinese introduction can be seen [[page]](https://mp.weixin.qq.com/s/qoo_gCmo7w7Y2230WN8EQg) 
+  
+    Other point cloud processing library, such as [PCL: Point Cloud Library](http://pointclouds.org/) , [Open3D](http://www.open3d.org/) , [SLAM6D](http://slam6d.sourceforge.net/)
+  
+  - **Point cloud registration**: [Libicp](http://www.cvlibs.net/software/libicp/) , [libpointmatcher](https://github.com/ethz-asl/libpointmatcher) , [g-icp](https://github.com/avsegal/gicp) , [n-icp](http://jacoposerafin.com/nicp/)
+  
+  - **TeaseR++**: a fast and certifiably-robust point cloud registration library written in C++, with Python and MATLAB bindings. [[github]](https://github.com/MIT-SPARK/TEASER-plusplus) [Intro](https://mp.weixin.qq.com/s/xCOTBsqGNPccYgbxlnDJ-g)
+  
+
 - **3D Reconstruction**
 
-  - MonocularSfM [[github]](https://github.com/nebula-beta/MonocularSfM)
+  - **MonocularSfM** [[github]](https://github.com/nebula-beta/MonocularSfM)
 
-  - OpenVSLAM [[github]](https://github.com/xdspacelab/openvslam) [[Tutorial]](https://openvslam.readthedocs.io/en/master)
+  - **OpenVSLAM** [[github]](https://github.com/xdspacelab/openvslam) [[Tutorial]](https://openvslam.readthedocs.io/en/master)
 
     > Developed by Japan National Institute of Advanced Industrial Science and Technology. OpenVSLAM是一套单目、立体、RGB-D视觉SLAM系统，其主要特点：兼容多种相机类型，并可以轻松定制兼容其他类型相机；可以存储和加载创建的地图，然后OpenVSLAM可以基于预先构建的地图定位新图像；系统完全模块化的；提供了一些代码片段来理解该系统的核心功能。
     >
     > OpenVSLAM基于具有稀疏特征的间接SLAM算法构建的，例如ORB-SLAM，ProSLAM和UcoSLAM。该系统可以处理多种相机模型捕获的图像，如透视相机、鱼眼相机和equirectangular相机（环绕平行多相机系统）。而且，用户可以轻松实现支持其他的相机模型（如双鱼眼、catadioptric等）.
     
-  - [Exiv2 - Image metadata library and tools](https://www.exiv2.org/)
+  - [**Exiv2**](https://www.exiv2.org/): Image metadata library and tools
 
 - **3D DeepLearning**
 
@@ -895,6 +928,16 @@ A course of Stanford university by Fei-Fei Li.
   - **PyTorch3D** [[Homepage]](https://pytorch3d.org/) [[github]](https://github.com/facebookresearch/pytorch3d)
 
     PyTorch3D is FAIR's library of reusable components for deep learning with 3D data. It provides efficient, reusable components for 3D Computer Vision research with PyTorch.
+    
+  - [**OpenPCDet**](https://github.com/open-mmlab/OpenPCDet): 有MMLAB开发的基于PyTorch的点云3D目标检测代码库, 具体参见[Intro](https://mp.weixin.qq.com/s/A77oT27j1TAB-H57WHvMuA)
+
+- **SLAM**
+
+  - **pySLAM** [[github]](https://github.com/luigifreda/pyslam)
+
+    pySLAM contains a python implementation of a monocular Visual Odometry (VO) pipeline. It supports many classical and modern local features, and it offers a convenient interface for them. Moreover, it collects other common and useful VO and SLAM tools.
+
+    
 
 **Crowd Counting**
 
@@ -927,12 +970,14 @@ A course of Stanford university by Fei-Fei Li.
   > Streamlit is the first app framework specifically for Machine Learning and Data Science teams. So you can stop spending time on frontend development and get back to what you do best. Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It supports hot-reloading, so your app updates live as you edit and save your file. No need to mess with HTTP requests, HTML, JavaScript, etc. All you need is your favorite editor and a browser. 
   >
   > 研究人员们开发出了一套面向机器学习工程师的工具套件，可以交互式的、高效地将python脚本转换为可以工程实用的app。除了交互式调试外，其中还包括了GPU、网络接口、客户端和线程等工具;除了简单的机器学习算法，还包括大型图像分割、自动驾驶等任务。
+  
+- [**fitlog**](https://github.com/fastnlp/fitlog): fitlog = fast + git + log, 是一款用于辅助用户记录日志和管理代码的工具，主要支持 Linux 和 macOS，也支持在 Windows 的 Git Bash 中使用。
 
 
 
 ### Research Tools
 
-- **Tools for Networks Drawing Used in Paper** [[Page]](https://mp.weixin.qq.com/s/ASjckYfAxqpEpIDlmCcTVA)
+- **Tools for Networks Drawing Used in Paper** [[Page]](https://mp.weixin.qq.com/s/ASjckYfAxqpEpIDlmCcTVA) 
 
   > **NN-SVG** 
   >
@@ -964,14 +1009,20 @@ A course of Stanford university by Fei-Fei Li.
   >
   > **Netscope**
   >
-  > 它是caffe的网络结构可视化工具，在线编辑，大名鼎鼎的netscope，由斯坦福AILab的Saumitro Dasgupta开发，左边放配置文件，右边出图，非常方便进行网络参数的调整和可视化。这种方式好就好在各个网络层之间的连接非常的方便。支持Caffe的prototxt文件可视化；支持自定义网络结构，可视化输出结构，只要按照prototxt的格式写即可。
+  > 它是caffe的网络结构可视化工具，在线编辑，大名鼎鼎的netscope，由斯坦福AILab的Saumitro Dasgupta开发，左边放配置文件，右边出图，非常方便进行网络参数的调整和可视化。这种方式好就好在各个网络层之间的连接非常的方便。支持Caffe的prototxt文件可视化；支持自定义网络结构，可视化输出结构，只要按照prototxt的格式写即可。github地址: https://github.com/ethereon/netscope
   >
-  > github地址: https://github.com/ethereon/netscope
+  > **VisualDL**
+  >
+  > Visual DL是由百度开发的，支持PaddlePaddle，PyTorch和MXNet等主流框架。github：https://github.com/PaddlePaddle/VisualDL
+  >
+  > **CNN Explainer**
+>
+  > 来自论文《CNN Explainer: learning convolutional neural network with interactive visualization》，可以可视化训练过程。CNN Explainer 使用 TensorFlow.js 加载预训练模型进行可视化效果，交互方面则使用 Svelte 作为框架并使用 D3.js 进行可视化。[[github]](https://github.com/poloclub/cnn-explainer) [[Proj]](https://poloclub.github.io/cnn-explainer/)
   >
   > 再分享一个有意思的，不是画什么正经图，但是把权重都画出来了。
   >
   > http://scs.ryerson.ca/~aharley/vis/conv/
-
+  
   
 
 
@@ -1017,6 +1068,12 @@ A course of Stanford university by Fei-Fei Li.
   [Detection based on MTCNN and LPRNet](https://github.com/xuexingyu24/License_Plate_Detection_Pytorch)  [Chinese License Plate Detection](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9)
 
 - Face2Face: Real-time Face Capture and Reenactment of RGB Videos, 2016CVPROral [[Proj]](http://niessnerlab.org/projects/thies2016face.html)
+
+- Real-Time 3D Object Detection on Mobile Devices with MediaPipe by Google AI, 2020 [[Proj]](https://github.com/google/mediapipe) [[Blog]](https://ai.googleblog.com/2020/03/real-time-3d-object-detection-on-mobile.html)
+
+- 2D photo to 3D on mobile devives by Facebook [[Blog]](https://ai.facebook.com/blog/powered-by-ai-turning-any-2d-photo-into-3d-using-convolutional-neural-nets/) [[Intro]](https://mp.weixin.qq.com/s/cHUl_FGvhKNOwrY4lHKLWQ)
+
+- 3D Photography from RGB-D using Context-aware Layered Depth Inpainting [[Proj]](https://shihmengli.github.io/3D-Photo-Inpainting/)
 
 
 
